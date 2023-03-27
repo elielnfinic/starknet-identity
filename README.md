@@ -14,3 +14,7 @@ For you to test, run `protostar test ./tests`
 
 To deploy this program on Starknet, make sure you have `protostar` configured for deployment on your computer then you can run `protostar deploy CLASS_HASH --network testnet --max-fee auto --account-address YOUR_ADDRESS --private-key-path PATH_TO_YOUR_PRIVATE_KEY` 
 
+
+# Questions  
+
+You can reach out to me on [Twitter](https://twitter.com/elielmathe)
