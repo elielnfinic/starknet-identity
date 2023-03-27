@@ -1,0 +1,31 @@
+[
+    {
+        "inputs": [
+            {
+                "name": "input_name",
+                "type": "felt"
+            }
+        ],
+        "name": "save_name",
+        "outputs": [],
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "get_name",
+        "outputs": [
+            {
+                "name": "res",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "constructor",
+        "outputs": [],
+        "type": "constructor"
+    }
+]
